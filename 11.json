@@ -1,0 +1,29 @@
+{
+    "bean": {
+        "_v": 0,
+        "addr": "64.188.98.55",
+        "name": "opeaztt4",
+        "pass": "80575a32-ccb6-4d78-9186-6299f96184c1",
+        "port": 443,
+        "stream": {
+            "ed_len": 0,
+            "insecure": false,
+            "mux_s": 0,
+            "net": "xhttp",
+            "pbk": "z2a31lDWFRNnw9eMVcjxOewjbTlt8Ore0ennc3Xei1g",
+            "sec": "tls",
+            "sid": "42",
+            "sni": "www.vk.ru",
+            "spx": "/",
+            "utls": "chrome"
+        }
+    },
+    "gid": 0,
+    "id": 11,
+    "traffic": {
+        "dl": 0,
+        "ul": 0
+    },
+    "type": "vless",
+    "yc": -1
+}
